@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Roboto Condensed";
-    src: url(./Roboto-Condensed-Regular.woff);
+    font-family: "Roboto Mono";
+    src: url(./RobotoMono-Medium.ttf);
 }
 
 body {
@@ -10,25 +10,25 @@ body {
     margin-right:auto;
     line-height:1.44em;
     color:#fff;
-    background-color: #474744;
+    background-color: #111111;
 }
 
 .title {
-    font-family: "Roboto Condensed";
+    font-family: "Roboto Mono";
     font-weight: 300;
     text-align: center;
     font-style: italic;
 }
 
 .subtitletop {
-    font-family:"Roboto Condensed";
+    font-family:"Roboto Mono";
     font-weight: 400;
     text-align: center;
     font-size: medium;
 }
 
 .entry {
-    background-color: #c5c5bc;
+    background-color: #eeeeee;
     padding: 10px;
     color: #000;
 }
@@ -38,12 +38,13 @@ h2,
 h3,
 h4,
 .subtitle {
-    font-family:"Roboto Condensed";
+    font-family:"Roboto Mono";
     font-weight: 400;
+    text-align: center;
 }
 
 a {
-    font-family: "Roboto Condensed";
+    font-family: "Roboto Mono";
 }
 
 .hidden {
@@ -51,13 +52,13 @@ a {
 }
 
 sup {
-    font-family: "Roboto Condensed";
+    font-family: "Roboto Mono";
     font-weight: 400;
     font-size:10pt;
 }
 
 .search {
-    font-family: "Roboto Condensed";
+    font-family: "Roboto Mono";
     font-size:10pt;
     float:right;
     margin-left:15px;
@@ -83,7 +84,7 @@ sup {
 }
 
 p {
-    font-family: "Roboto Condensed";
+    font-family: "Roboto Mono";
     text-align: left;
 }
 blockquote {
@@ -141,7 +142,7 @@ figure {
 }
 
 .contents {
-    font-family: "Roboto Condensed";
+    font-family: "Roboto Mono";
     float:left;
     background-color: #d4d3cd;
     margin-left: auto;
@@ -158,7 +159,7 @@ figure img {
 
 figcaption {
     text-align:left;
-    font-family: "Roboto Condensed";
+    font-family: "Roboto Mono";
     word-wrap: break-word;
     font-size: 11pt;
 }
