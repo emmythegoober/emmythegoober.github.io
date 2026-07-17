@@ -45,7 +45,7 @@ h4,
     text-align: center;
 }
 
-a:visited {
+a.mainpageback:visited {
      color: #eeeeee;
      text-decoration: none;
 }
