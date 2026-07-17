@@ -24,6 +24,7 @@ body {
     font-family:"Roboto Mono";
     font-weight: 400;
     text-align: center;
+    align-self: center;   
     font-size: medium;
     color: #eeeeee;
 }
@@ -44,8 +45,15 @@ h4,
     text-align: center;
 }
 
+a:visited {
+     color: #eeeeee;
+     text-decoration: none;
+}
+
 a {
     font-family: "Roboto Mono";
+    text-decoration: none;
+    
 }
 
 .hidden {
