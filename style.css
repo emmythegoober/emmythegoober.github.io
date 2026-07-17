@@ -1,0 +1,207 @@
+@font-face {
+    font-family: "Roboto Condensed";
+    src: url(./Roboto-Condensed-Regular.woff);
+}
+
+body {
+    font-size:12pt;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    line-height:1.44em;
+    color:#fff;
+    background-color: #474744;
+}
+
+.title {
+    font-family: "Roboto Condensed";
+    font-weight: 300;
+    text-align: center;
+    font-style: italic;
+}
+
+.subtitletop {
+    font-family:"Roboto Condensed";
+    font-weight: 400;
+    text-align: center;
+    font-size: medium;
+}
+
+.entry {
+    background-color: #c5c5bc;
+    padding: 10px;
+    color: #000;
+}
+
+h1,
+h2,
+h3,
+h4,
+.subtitle {
+    font-family:"Roboto Condensed";
+    font-weight: 400;
+}
+
+a {
+    font-family: "Roboto Condensed";
+}
+
+.hidden {
+    color: #ebe9df;
+}
+
+sup {
+    font-family: "Roboto Condensed";
+    font-weight: 400;
+    font-size:10pt;
+}
+
+.search {
+    font-family: "Roboto Condensed";
+    font-size:10pt;
+    float:right;
+    margin-left:15px;
+    margin-right:auto;
+    color: #808080;
+}
+
+.footnote {
+    font-size: 11pt;
+}
+
+.longname {
+    font-size: 10pt;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.shortname {
+    font-size: 12pt;
+    font-weight: 600;
+    text-align: center;
+}
+
+p {
+    font-family: "Roboto Condensed";
+    text-align: left;
+}
+blockquote {
+  background-color: #c0bff5;
+  margin-left: 100px auto;
+  margin-right: 100px auto;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+figure {
+   max-width: 200px;
+}
+
+.ohmygodjuststaysmall {
+    max-width: 260px;
+}
+
+.ohmygodjuststaysmaller {
+    max-width: 100px;
+}
+
+.indent-first {
+    text-indent: 5%;
+}
+
+.left {
+    float:left;
+    margin-left:auto;
+    margin-right:15px;
+}
+
+
+.center {
+    float:center;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+
+.right {
+    float:right;
+    margin-left:15px;
+    margin-right:auto;
+}
+
+
+
+.logs {
+    background-color: #e8bfbe;
+    margin-left: 100px auto;
+    margin-right: 100px auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contents {
+    font-family: "Roboto Condensed";
+    float:left;
+    background-color: #d4d3cd;
+    margin-left: auto;
+    margin-right: 6px;
+    padding: 5px;
+ 
+}
+
+figure img {
+    margin-left:auto;
+    margin-right:0px;
+    height:200px;
+}
+
+figcaption {
+    text-align:left;
+    font-family: "Roboto Condensed";
+    word-wrap: break-word;
+    font-size: 11pt;
+}
+table {
+
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 0.1px;
+}
+
+.caption {
+    font-size: 11pt;
+    text-align: center;
+    margin-right:auto;
+}
+
+th[scope="col"] {
+  background-color: #a7b2c8;
+  margin-right:auto;
+}
+
+
+th,
+td {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 10px;
+}
+
+td:last-of-type {
+  text-align: center;
+}
+
+tbody > tr:nth-of-type(even) {
+  background-color: rgb(237 238 242);
+}
+
+tfoot th {
+  text-align: right;
+}
+
+tfoot td {
+  font-weight: bold;
+}
+
