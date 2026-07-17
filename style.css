@@ -9,7 +9,7 @@ body {
     margin-left:auto;
     margin-right:auto;
     line-height:1.44em;
-    color:#fff;
+    color:#eeeeee;
     background-color: #111111;
 }
 
@@ -25,6 +25,7 @@ body {
     font-weight: 400;
     text-align: center;
     font-size: medium;
+    color: #eeeeee;
 }
 
 .entry {
