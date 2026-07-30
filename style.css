@@ -180,9 +180,9 @@ figcaption {
 }
 
 .textstuff {
-    margin-left: 40px;
+    margin-left: auto;
     margin-top: 40px;
-    margin-right: 30px;
+    margin-right: auto;
     overflow-wrap: break-word;
     text-align: justify;
 }
